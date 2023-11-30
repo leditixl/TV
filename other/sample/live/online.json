@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://github.com/live.m3u"
+      "url": "http://192.168.7.254:4001/iptv/xlc2.m3u"
     },
     {
       "name": "TXT",
@@ -26,7 +26,7 @@
     },
     {
       "name": "PRO",
-      "boot": false,
+      "boot": true,
       "url": "https://github.com/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
